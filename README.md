@@ -1,2 +1,4 @@
-# scad.telescope
-a telescope write in scad to print in 3d printer
+risc os
+
+
+operation system risc5 
